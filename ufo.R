@@ -1,2 +1,4 @@
-Maaryah Salyani
-Assignment 4
+#Maaryah Salyani
+#Assignment 4
+
+read.table("ufo_subset")
